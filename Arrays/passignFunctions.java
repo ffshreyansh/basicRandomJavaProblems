@@ -7,6 +7,7 @@ public class passignFunctions {
         System.out.println(Arrays.toString(nums));
 
         change(nums);
+         
         System.out.println(Arrays.toString(nums));
     }
 
